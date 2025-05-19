@@ -7,4 +7,3 @@ res://Escenes/laser.tscn
 res://Escenes/marcador.tscn
 res://Escenes/power_up_bomba.tscn
 res://Escenes/power_up_vida.tscn
-res://Scripts/BarraVida.gd
